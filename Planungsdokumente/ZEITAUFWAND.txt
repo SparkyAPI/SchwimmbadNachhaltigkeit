@@ -1,0 +1,34 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+
+					EcoPool
+				Creator: Robin Landsrath
+			   Zeitraum: 11.11.2024 - 19.11.2024
+
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+🔒 Login System mit LocalUser und MySQL Anbindung - 4h
+   ➜ Implementierung eines sicheren Login-Systems mit LocalUser
+   ➜ MySQL Anbindung zur Speicherung und Verwaltung der Benutzerdaten
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+💾 DataSave (LocalDatabase JSON) - 2h
+   ➜Daten hinzufügen 📝
+   ➜Daten löschen 🗑️
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+📄 PDF-Creation und Export - 5h
+   ➜OpenAI Suggestions zur Verbesserung und Optimierung 📚
+   ➜OpenAI EcoReview für nachhaltige Bewertungen 🌱
+   ➜AllowImages für Bildintegration in PDFs 🖼️
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+🤖 OpenAI Einbindung für Verbesserungsvorschläge - 4h
+   ➜Integration von OpenAI zur Generierung von Verbesserungsvorschlägen für Texte ✍️
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+🌍 OpenAI Einbindung für EcoFriendlyReview - 1h
+   ➜ Nutzung von OpenAI für EcoFriendlyReviews zur Förderung von Nachhaltigkeit 🌿
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+🖼️ Grafiken - 1h
+   ➜ Alle genutzten Grafiken wurden selbst designed

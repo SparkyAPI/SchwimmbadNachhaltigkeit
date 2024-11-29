@@ -34,6 +34,7 @@ Stelle sicher, dass du die folgenden Programme installiert hast:
 ```bash
 Install-Package Newtonsoft.Json
 Install-Package itext7
+Install-Package MySQL.Data
 ```
 
 ### 2. Projekt herunterladen 💻

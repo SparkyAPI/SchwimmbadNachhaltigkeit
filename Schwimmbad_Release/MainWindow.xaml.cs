@@ -21,7 +21,7 @@ namespace SchwimmbadNachhaltigkeit
     {
         private const string DatabaseFile = "data.json";
         private List<NachhaltigkeitsDaten> datenListe;
-        private const string ApiKey = "sk-proj-S2Iub8TQ5wkBNeWXuUFDT3BlbkFJahCwydprlQttmLuHtkAm"; 
+        private const string ApiKey = "Der API Key"; 
         private const string OpenAiEndpoint = "https://api.openai.com/v1/chat/completions";
 
         public MainWindow()
